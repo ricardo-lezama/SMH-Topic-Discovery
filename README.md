@@ -17,7 +17,7 @@ python -m nltk.downloader punkt averaged_perceptron_tagger wordnet
 Install Sampled-MinHashing (see README at https://github.com/gibranfp/Sampled-MinHashing).
 
 ## Corpora
-It will download the followind resources/corpora using 'scripts/prepare\_db.sh':
+It will download the following resources/corpora using 'scripts/prepare\_db.sh':
 
 * 20 Newsgroups
 * English Wikipedia
